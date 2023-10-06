@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://c3pkcacyqafev"]
+
+[node name="Platform" type="Node2D"]
+
+[node name="Polygon2D" type="Polygon2D" parent="."]
+position = Vector2(600, 616)
+offset = Vector2(-592, -560)
+polygon = PackedVector2Array(320, 448, 832, 448, 832, 512, 320, 512)
